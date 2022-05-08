@@ -1,0 +1,10 @@
+{
+    "name": "RGBHighlight",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Lunzir-0325",
+    "description": "This is my second private module, welcome to DJ Vanilla. Most interactive objects can be highlighted in RGB or solid color 可以让大部分交互物体高亮显示RGB或者纯彩色，提供多个颜色。这是我第二个私藏模组，希望玩的开心。",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1903",
+		"tristanmcpherson-R2API-4.3.5"
+    ]
+}
